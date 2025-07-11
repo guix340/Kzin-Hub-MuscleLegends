@@ -1,5 +1,5 @@
 -- Verificação do jogo
-if game.PlaceId ~= 2629327654 then
+if game.PlaceId ~= 6366494025 then
     return warn("Esse hub só pode ser usado no Muscle Legends.")
 end
 
